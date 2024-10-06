@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.AssemblyInfo.cs
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\Configure 1 & Multiple Middlewares\Configure 1 & Multiple Middlewares\obj\Debug\net7.0\Configure 1 & Multiple Middlewares.RazorAssemblyInfo.cs

@@ -1,0 +1,8 @@
+﻿<ul>
+    @foreach (var std in ViewData["students"] as IList<Student>)
+    {
+        <li>
+            @std.StudentName
+        </li>
+    }
+</ul>
