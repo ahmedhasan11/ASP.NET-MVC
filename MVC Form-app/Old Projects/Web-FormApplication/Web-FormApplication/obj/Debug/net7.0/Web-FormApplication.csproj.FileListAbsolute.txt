@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\Web-FormApplication\Web-FormApplication\obj\Debug\net7.0\Web-FormApplication.RazorAssemblyInfo.cs
